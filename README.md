@@ -45,8 +45,8 @@ ylabel( 'Magnitude in dB');
 title('Frequency Response of FIR LPF using Hamming Window'); 
 ```
 # CALCULATION:
-![Ham manu 1](https://github.com/user-attachments/assets/cc50cbbb-7dac-4411-90ad-107033f5ca3f)
-![Ham manu 2](https://github.com/user-attachments/assets/afc3b41c-b683-4826-b107-a67305cd0e87)
+<img width="1080" height="1440" alt="image" src="https://github.com/user-attachments/assets/178ccd58-2ab0-4d38-b9d0-3bd493649afe" />
+
 
 # OUTPUT:
 <img width="480" height="425" alt="LPF-Hamming calculation" src="https://github.com/user-attachments/assets/98650c72-45f7-4a39-960a-d5c0ba7a893f" />
@@ -96,7 +96,9 @@ ylabel( 'Magnitude in dB');
 title('Frequency Response of FIR HPF using Hamming Window'); 
 ```
 # CALCULATION:
-![Hamming](https://github.com/user-attachments/assets/06be022a-f101-409a-9dec-b6df6c6da1b3)
+<img width="1080" height="1440" alt="image" src="https://github.com/user-attachments/assets/788c4d76-e887-4bb3-bd40-ca1a84fa4b2f" />
+
+<img width="1080" height="1440" alt="image" src="https://github.com/user-attachments/assets/e08ae751-2965-47b8-9676-1b09ece28557" />
 
 # OUTPUT:
 <img width="449" height="474" alt="HPF-Hamming Calculation" src="https://github.com/user-attachments/assets/c8aaa300-00c1-4223-8f7a-4102951dcdc3" />
@@ -147,7 +149,9 @@ ylabel( 'Magnitude in dB');
 title('Frequency Response of FIR BPF using Hamming Window'); 
 ```
 # CALCULATION:
-![Hamming](https://github.com/user-attachments/assets/46f0ef9c-23a1-4290-872d-e4786850990c)
+<img width="1080" height="1440" alt="image" src="https://github.com/user-attachments/assets/ffd9a9c1-0b34-4327-ac73-d0365f196483" />
+<img width="1080" height="1440" alt="image" src="https://github.com/user-attachments/assets/99be344c-1b45-4c4f-9349-611d65afc7ee" />
+
 
 # OUTPUT:
 <img width="570" height="466" alt="BPF-Hamming Calculation" src="https://github.com/user-attachments/assets/c98ab435-43d0-4825-8184-dceec936c362" />
